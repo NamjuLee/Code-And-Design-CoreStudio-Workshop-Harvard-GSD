@@ -238,50 +238,6 @@ o.material.specularLevel=40
 
 
 
---////////////////////////////////////////////////////////////////////////////// vector function
-/*
-mypoint = [10,23,40]
-b = normalize mypoint
-print b
--- function for vector
-print (copy [10,23,40])
-print (length [90,23,40] )
-print (dot [0,0,0] [100,100,100] )
-print (cross [0,0,0] [100,100,100] )
-print (normalize [10,23,40])
-print (distance [0,0,0] [100,100,0])
-print (random [0,0,0] [100,100,100])
-*/
-
-
-
-
---////////////////////////////////////////////////////////////////////////////// cast
-
-/*
-a = 1 as float
-classof(a)
-
-b = 1.0 as integer
-classof(b)
-
-c = 1 as string
-classof(c)
-*/
-
-
-
-/*
-a = [0,255,0]
-classof(point3 0 0 255)
-aCol = a as color
-print aCol
-
-theRed = red as point3
-print theRed
-*/
-
-
 
 
 
